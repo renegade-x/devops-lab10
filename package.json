@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-lab10",
+  "version": "1.0.0",
+  "description": "CSC418 Lab 10 build demo",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
